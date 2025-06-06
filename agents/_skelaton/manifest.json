@@ -1,0 +1,9 @@
+{
+  "id": "seer-aether",
+  "name": "Seer",
+  "role": "agent",
+  "realm": "aether",
+  "description": "Azrael is the Angel of Death and Rebirth",
+  "host": "aether",
+  "priority": 40
+}

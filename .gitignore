@@ -1,0 +1,20 @@
+# Ignore inner Git deployment folders
+agents/*/.git
+agents/*/.gitignore
+agents/*/post-receive
+agents/*/*.service
+
+# VSCode & dev stuff
+.vscode/
+*.swp
+*.bak
+*.log
+*.out
+
+# Build output
+**/bin/
+**/*.o
+
+# System
+.DS_Store
+Thumbs.db
